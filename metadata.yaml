@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40340'
     url: http://www.gutenberg.org/2009/agents/40340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39867#Terrestrial-and-Celestial-Globes-Vol-IIAstronomy
 gutenberg_issued: '2012-06-11'
 gutenberg_type: Text
 identifiers:
